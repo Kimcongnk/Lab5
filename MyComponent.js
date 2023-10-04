@@ -14,6 +14,8 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
+    width: 300, // Chỉnh chiều rộng
+    height: 200,
   },
   text: {
     fontSize: 24,
